@@ -1,4 +1,4 @@
-# 🎃 Halloween Memory Card Game 👻  
+# 🎃Memory Matrix - A Halloween-Themed Memory Card Game 👻  
 
 A spooky twist on the classic memory game! Flip and match eerie Halloween-themed cards before time runs out.  
 
